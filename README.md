@@ -38,17 +38,17 @@ Install required packages using:
 ## Usage
 
 1. Set the YouTube URL and track info at the top of player-2.py:
-    ``sh
+    ```
     YOUTUBE_URL = "https://youtu.be/LbLbkAMjPeM"
     TRACK_NAME = "Lonely"
     ARTIST_NAME = "Akon"
     LRC_FILE_PATH = "Lonely.lrc"
-    ``
+    ```
 
 2. Run the script:
-    ``sh
+    ```
     python player-2.py
-    ``
+    ```
 
 3. Controls in the GUI:
 
